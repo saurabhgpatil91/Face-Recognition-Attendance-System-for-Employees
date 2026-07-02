@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="239px" preserveAspectRatio="none" style="width:1064px;height:239px;background:#FFFFFF;" version="1.1" viewBox="0 0 1064 239" width="1064px" zoomAndPan="magnify"><defs/><g><!--MD5=[af35dbf2749d2a62ee61c9080fc01e75]
+cluster Face Recognition Attendance System--><g id="cluster_Face Recognition Attendance System"><rect fill="none" height="127" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="1051" x="7" y="106.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="294" x="385.5" y="121.4951">Face Recognition Attendance System</text></g><!--MD5=[16c4cd41791b038220735946aad5ae3a]
+entity Register Employee--><g id="elem_Register Employee"><ellipse cx="977" cy="150" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M977,158 L977,185 M964,166 L990,166 M977,185 L964,200 M977,185 L990,200 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="912" y="214.4951">Register Employee</text></g><!--MD5=[4cdd0f291f29a6cde8e6e2130f2858c3]
+entity Take Face Images--><g id="elem_Take Face Images"><ellipse cx="814" cy="150" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M814,158 L814,185 M801,166 L827,166 M814,185 L801,200 M814,185 L827,200 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="751.5" y="214.4951">Take Face Images</text></g><!--MD5=[fd6962587c74ddb9d88930c75b90c181]
+entity Train Model--><g id="elem_Train Model"><ellipse cx="676" cy="150" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M676,158 L676,185 M663,166 L689,166 M676,185 L663,200 M676,185 L689,200 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="636" y="214.4951">Train Model</text></g><!--MD5=[fd668b6ffba7c0e4937c31fd494367da]
+entity Mark Attendance--><g id="elem_Mark Attendance"><ellipse cx="542" cy="150" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M542,158 L542,185 M529,166 L555,166 M542,185 L529,200 M542,185 L555,200 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="483.5" y="214.4951">Mark Attendance</text></g><!--MD5=[e06af4c9abea9816793673527e813dbd]
+entity Change Password--><g id="elem_Change Password"><ellipse cx="386" cy="150" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M386,158 L386,185 M373,166 L399,166 M386,185 L373,200 M386,185 L399,200 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="323.5" y="214.4951">Change Password</text></g><!--MD5=[93501ded9921c87393d7c6c5eb58e161]
+entity View Attendance--><g id="elem_View Attendance"><ellipse cx="230" cy="150" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M230,158 L230,185 M217,166 L243,166 M230,185 L217,200 M230,185 L243,200 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="172" y="214.4951">View Attendance</text></g><!--MD5=[c5e274a44c4d009950b22bc86d19e680]
+entity Contact Support--><g id="elem_Contact Support"><ellipse cx="80" cy="150" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M80,158 L80,185 M67,166 L93,166 M80,185 L67,200 M80,185 L93,200 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="23.5" y="214.4951">Contact Support</text></g><!--MD5=[fee662a292a0353a69bd162820bae93b]
+entity User--><g id="elem_User"><ellipse cx="542" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M542,22 L542,49 M529,30 L555,30 M542,49 L529,64 M542,49 L555,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="526" y="78.4951">User</text></g><!--MD5=[9f4df5d0d42897bac3ede2b734501e35]
+link User to Register Employee--><g id="link_User_Register Employee"><path d="M558.13,45.68 C618.86,50.3 833.33,68.47 894,98.5 C912.85,107.83 930.21,122.98 944.13,137.6 " fill="none" id="User-to-Register Employee" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="947.59,141.31,944.3539,132.008,944.1708,137.6619,938.5169,137.4787,947.59,141.31" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[65ea9473f9e5fddce6baad9a47ce4fdd]
+link User to Take Face Images--><g id="link_User_Take Face Images"><path d="M558.25,46.26 C592.75,50.57 674.99,63.94 734,98.5 C751.2,108.57 767.33,123.23 780.54,137.25 " fill="none" id="User-to-Take Face Images" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="784.19,141.18,781.0292,131.8521,780.8004,137.5043,775.1482,137.2755,784.19,141.18" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e510a59c17e679dfd3198330524cc03b]
+link User to Train Model--><g id="link_User_Train Model"><path d="M558.28,53.9 C574.51,63.74 599.6,80.28 618,98.5 C629.61,110 640.61,124.01 649.84,137.08 " fill="none" id="User-to-Train Model" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="652.9,141.47,651.0361,131.7991,650.0413,137.3678,644.4726,136.373,652.9,141.47" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ad8fa075e3ba0f725cfd47dda748fe9c]
+link User to Mark Attendance--><g id="link_User_Mark Attendance"><path d="M542,81.83 C542,98.67 542,118.65 542,136.06 " fill="none" id="User-to-Mark Attendance" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="542,141.37,546,132.37,542,136.37,538,132.37,542,141.37" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c1191d7ff0b8e9a6c7bed569e86e320c]
+link User to Change Password--><g id="link_User_Change Password"><path d="M525.7,54.93 C509.91,65.29 485.53,81.99 466,98.5 C451.74,110.55 437.04,124.68 424.19,137.69 " fill="none" id="User-to-Change Password" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="420.62,141.33,429.7836,137.7205,424.1269,137.7661,424.0813,132.1094,420.62,141.33" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[de44ae0c990524c4f9ed560ae0faca83]
+link User to View Attendance--><g id="link_User_View Attendance"><path d="M525.96,45.02 C486.13,46.96 380.5,56.05 306,98.5 C288.96,108.21 273.4,122.95 260.85,137.14 " fill="none" id="User-to-View Attendance" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="257.39,141.12,266.3089,136.9424,260.6663,137.343,260.2657,131.7003,257.39,141.12" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[47adf84ec1775863043e324e459af1bb]
+link User to Contact Support--><g id="link_User_Contact Support"><path d="M525.57,45.34 C460.53,48.89 221.4,64.09 155,98.5 C137.39,107.63 121.69,122.58 109.26,137.1 " fill="none" id="User-to-Contact Support" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="105.84,141.18,114.6904,136.8591,109.055,137.3506,108.5634,131.7152,105.84,141.18" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[bb6b41b0cc4c882ef58316a3ad02f2fc]
+@startuml
+actor User
+
+rectangle "Face Recognition Attendance System" {
+  :Register Employee:
+  :Take Face Images:
+  :Train Model:
+  :Mark Attendance:
+  :Change Password:
+  :View Attendance:
+  :Contact Support:
+}
+
+User - -> :Register Employee:
+User - -> :Take Face Images:
+User - -> :Train Model:
+User - -> :Mark Attendance:
+User - -> :Change Password:
+User - -> :View Attendance:
+User - -> :Contact Support:
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

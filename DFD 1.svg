@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="314px" preserveAspectRatio="none" style="width:640px;height:314px;background:#FFFFFF;" version="1.1" viewBox="0 0 640 314" width="640px" zoomAndPan="magnify"><defs/><g><!--MD5=[bde8bdc6ed133eea7250102865107a85]
+cluster Face Recognition System--><g id="cluster_Face Recognition System"><path d="M8.5,106.5 L207.5,106.5 A3.75,3.75 0 0 1 210,109 L217,128.7969 L630.5,128.7969 A2.5,2.5 0 0 1 633,131.2969 L633,305 A2.5,2.5 0 0 1 630.5,307.5 L8.5,307.5 A2.5,2.5 0 0 1 6,305 L6,109 A2.5,2.5 0 0 1 8.5,106.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="217" y1="128.7969" y2="128.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="198" x="10" y="121.4951">Face Recognition System</text></g><!--MD5=[11e5abc0296d2a9544c49e35636d4c40]
+entity RE--><g id="elem_RE"><rect fill="#F1F1F1" height="36.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="176" x="441" y="141.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="451" y="164.4951">1.0 Register Employee</text></g><!--MD5=[c6ddddda358f072e4f19aa798de5fbe9]
+entity TM--><g id="elem_TM"><rect fill="#F1F1F1" height="36.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="126" x="280" y="141.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="290" y="164.4951">2.0 Train Model</text></g><!--MD5=[b771b33d531369f464b83d34143ba334]
+entity MA--><g id="elem_MA"><rect fill="#F1F1F1" height="36.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="163" x="81.5" y="141.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="91.5" y="164.4951">3.0 Mark Attendance</text></g><!--MD5=[5f08483ab9028101afdbe073256070ac]
+entity EDC--><g id="elem_EDC"><path d="M324.5,252 C324.5,242 387,242 387,242 C387,242 449.5,242 449.5,252 L449.5,277.2969 C449.5,287.2969 387,287.2969 387,287.2969 C387,287.2969 324.5,287.2969 324.5,277.2969 L324.5,252 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M324.5,252 C324.5,262 387,262 387,262 C387,262 449.5,262 449.5,252 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="334.5" y="278.9951">EmpDetails.csv</text></g><!--MD5=[ba188e4ceffebbe07bfd2fa707094214]
+entity TI--><g id="elem_TI"><path d="M487.5,237.5 L528.5,237.5 A3.75,3.75 0 0 1 531,240 L538,258.5 L614.5,258.5 A2.5,2.5 0 0 1 617,261 L617,289.2969 A2.5,2.5 0 0 1 614.5,291.7969 L487.5,291.7969 A2.5,2.5 0 0 1 485,289.2969 L485,240 A2.5,2.5 0 0 1 487.5,237.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="485" x2="538" y1="258.5" y2="258.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="495" y="278.4951">TrainingImage/</text></g><!--MD5=[d5b45c8b0274f0bd032f9fa02440ab36]
+entity TR--><g id="elem_TR"><path d="M185,249 L185,280.2969 A2.5,2.5 0 0 0 187.5,282.7969 L286.5,282.7969 A2.5,2.5 0 0 0 289,280.2969 L289,256.5 L279,246.5 L187.5,246.5 A2.5,2.5 0 0 0 185,249 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M279,246.5 L279,254 A2.5,2.5 0 0 0 281.5,256.5 L289,256.5 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="195" y="269.4951">Trainner.yml</text></g><!--MD5=[c3367b9228804df0da91dd6d13b91a15]
+entity ATD--><g id="elem_ATD"><path d="M22.5,252 C22.5,242 86,242 86,242 C86,242 149.5,242 149.5,252 L149.5,277.2969 C149.5,287.2969 86,287.2969 86,287.2969 C86,287.2969 22.5,287.2969 22.5,277.2969 L22.5,252 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M22.5,252 C22.5,262 86,262 86,262 C86,262 149.5,262 149.5,252 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="32.5" y="278.9951">Attendance.csv</text></g><!--MD5=[fee662a292a0353a69bd162820bae93b]
+entity User--><g id="elem_User"><ellipse cx="343" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M343,22 L343,49 M330,30 L356,30 M343,49 L330,64 M343,49 L356,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="327" y="78.4951">User</text></g><!--MD5=[c7c53214771303b109b8191e2bef60e3]
+link User to RE--><g id="link_User_RE"><path d="M359.18,54.42 C389.8,73.18 456.71,114.19 496.8,138.76 " fill="none" id="User-to-RE" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="501.07,141.38,495.4939,133.2617,496.8093,138.7635,491.3075,140.0789,501.07,141.38" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6f8a64c1eb8f7c99bd2e8b353d8da9f1]
+link RE to EDC--><g id="link_RE_EDC"><path d="M505.55,177.51 C482.45,194.27 446.91,220.05 420.76,239.01 " fill="none" id="RE-to-EDC" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="416.65,241.99,426.2804,239.9274,420.6924,239.0474,421.5724,233.4594,416.65,241.99" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a56084f0f26215eafff11a459c76f17c]
+link RE to TI--><g id="link_RE_TI"><path d="M532.63,177.51 C535.8,192.34 540.48,214.24 544.32,232.22 " fill="none" id="RE-to-TI" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="545.38,237.18,547.4189,227.5445,544.3392,232.2895,539.5941,229.2098,545.38,237.18" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c395b0ad6a20db960b3a7e10c997eb50]
+link User to TM--><g id="link_User_TM"><path d="M343,81.51 C343,99.62 343,120.81 343,136.37 " fill="none" id="User-to-TM" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="343,141.42,347,132.42,343,136.42,339,132.42,343,141.42" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7d828c335813d09334fceb5591c70566]
+link TM to TI--><g id="link_TM_TI"><path d="M377.35,177.51 C408.95,193.16 456.43,216.67 493.76,235.15 " fill="none" id="TM-to-TI" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="498.26,237.38,491.9603,229.8095,493.7765,235.1668,488.4191,236.9831,498.26,237.38" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4a2cdc1b287c41a8240b51acc037c2b0]
+link TM to TR--><g id="link_TM_TR"><path d="M325.5,177.51 C307.08,195.4 278.09,223.57 258.35,242.75 " fill="none" id="TM-to-TR" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="254.53,246.47,263.7715,243.0648,258.1152,242.9848,258.1952,237.3285,254.53,246.47" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[860302fc37630e5ff7c782d5144df0cd]
+link User to MA--><g id="link_User_MA"><path d="M326.71,54.82 C296.94,73.67 233.27,114 194.69,138.43 " fill="none" id="User-to-MA" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="190.11,141.33,199.8552,139.9048,194.3371,138.6595,195.5824,133.1414,190.11,141.33" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b68f23d3b1460a389f7e78c4b3209cc9]
+link MA to TR--><g id="link_MA_TR"><path d="M175.22,177.51 C187.97,195.25 207.98,223.1 221.75,242.27 " fill="none" id="MA-to-TR" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="224.76,246.47,222.7519,236.828,221.8404,242.411,216.2574,241.4995,224.76,246.47" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7e761a644c8224da5664f663e82c9eb5]
+link MA to EDC--><g id="link_MA_EDC"><path d="M199.99,177.51 C236.96,194.51 294.12,220.79 335.51,239.82 " fill="none" id="MA-to-EDC" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="340.23,241.99,333.7198,234.5996,335.686,239.9038,330.3819,241.87,340.23,241.99" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d4e28ca377764d11047ce2e4b6f72b40]
+link MA to ATD--><g id="link_MA_ATD"><path d="M150.29,177.51 C138.05,193.87 119.4,218.83 105.33,237.65 " fill="none" id="MA-to-ATD" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="102.22,241.81,110.82,237.01,105.22,237.81,104.42,232.21,102.22,241.81" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f06b2ab6b388a8f81146eb89cdcb0125]
+@startuml
+actor User
+
+package "Face Recognition System" {
+  rectangle "1.0 Register Employee" as RE
+  rectangle "2.0 Train Model" as TM
+  rectangle "3.0 Mark Attendance" as MA
+
+  database "EmpDetails.csv" as EDC
+  folder "TrainingImage/" as TI
+  file "Trainner.yml" as TR
+  database "Attendance.csv" as ATD
+
+  User - -> RE
+  RE - -> EDC
+  RE - -> TI
+
+  User - -> TM
+  TM - -> TI
+  TM - -> TR
+
+  User - -> MA
+  MA - -> TR
+  MA - -> EDC
+  MA - -> ATD
+}
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
