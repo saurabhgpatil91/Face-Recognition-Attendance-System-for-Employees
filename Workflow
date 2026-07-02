@@ -1,0 +1,22 @@
+Register Employee
+        │
+        ▼
+Capture Images
+        │
+        ▼
+Train Face Encodings
+        │
+        ▼
+Open Webcam
+        │
+        ▼
+Detect Face
+        │
+        ▼
+Recognize Employee
+        │
+        ▼
+Mark Attendance
+        │
+        ▼
+Save CSV
